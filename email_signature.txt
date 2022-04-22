@@ -5,7 +5,7 @@
 <table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td style="vertical-align: middle;" width="150"><em><span class="sc-kgAjT cuzzPp" style="margin-right: 20px; display: block;"><img class="sc-cHGsZl bHiaRe" style="max-width: 130px;" src="https://drive.google.com/uc?id=1N72zjaDngVT7OyzfH_CAAU1Myx3pQ_S5" width="130" /></span></em></td>
+<td style="vertical-align: middle;" width="150"><em><span class="sc-kgAjT cuzzPp" style="margin-right: 20px; display: block;"><img class="sc-cHGsZl bHiaRe" style="max-width: 130px;" src="https://apptimist.studio/media/filer_public/e5/f8/e5f8f06d-b29f-4afe-9f2c-c34b7468a491/no_background_logo.png" width="130" /></span></em></td>
 <td style="vertical-align: middle;">
 <h3 class="sc-fBuWsC eeihxG" style="margin: 0px; font-size: 18px; color: #000000;"><span>Dany</span><span>&nbsp;</span><span>Stecova</span></h3>
 <p class="sc-fMiknA bxZCMx" style="margin: 0px; color: #000000; font-size: 14px; line-height: 22px;"><span>UX Designer</span></p>
