@@ -1,106 +1,53 @@
-
-    <table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-            <td>
-                <table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0"
-                       cellpadding="0">
-                    <tbody>
-                    <tr>
-
-                        <td style="vertical-align: middle;">
-                            <td style="vertical-align: middle;" width="100"><em><span class="sc-kgAjT cuzzPp"
-                                                                                  style="margin-right: 20px; display: block;"><img
-                                class="sc-cHGsZl bHiaRe" style="max-width: 130px;"
-                                src="https://apptimist.studio/media/filer_public/4b/6e/4b6ec30e-d7d3-4656-a5ab-5bdfdb11186e/white_background_apptimist_logo.png"
-                                width="130"/></span></em></td>
-                            <h3 class="sc-fBuWsC eeihxG" style="margin: 0px; font-size: 18px; color: #000000;"><span>Martin</span><span>&nbsp;</span><span>Anev</span>
-                            </h3>
-                        <p class="sc-fMiknA bxZCMx" style="margin: 0px; color: #000000; font-size: 14px; line-height: 22px;"><span>Founder</span></p>
-                            <p class="sc-dVhcbM fghLuF"
-                               style="margin: 0px; font-weight: 500; color: #000000; font-size: 14px; line-height: 22px;">
-                                <span><strong>Apptimist Studio</strong> | </span></p>
-                            <p class="sc-dVhcbM fghLuF"
-                               style="margin: 0px; font-weight: 500; color: #000000; font-size: 14px; line-height: 22px;">
-                                <em>Business & tech solutions with a customer-centric approach.</em><br/>
-                            <a href="https://apptimist.studio/meeting" class="sc-jlyJG bbyJzT"
-                                                                           style="text-decoration: underline; color: #000000;">Schedule a call with me</a></p>
-
-                        </td>
-
-                            <div style="width: 30px;">&nbsp;</div>
-                        </td>
-                        <td class="sc-jhAzac hmXDXQ"
-                            style="width: 1px; border-bottom: medium none; border-left: 1px solid #FFD60A;" width="1">
-                            &nbsp;
-                        </td>
-                        <td width="30">
-                            <div style="width: 30px;">&nbsp;</div>
-                        </td>
-
-                        <td style="vertical-align: middle;">
-                            <table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;"
-                                   cellspacing="0" cellpadding="0">
-                                <tbody>
-                                <tr></tr>
-                                <tr>
-                                    <td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT"
-                                                                              style="background-color: #FFD60A;"><a
-                                            href="https://www.linkedin.com/in/martin-anev/"><img
-                                            class="sc-iRbamj blSEcj" style="display: block; background-color: #FFD60A;"
-                                            src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/linkedin-icon-2x.png"
-                                            width="13"/></a></span></td>
-                                    <td style="vertical-align: bottom;"><a class="sc-jlyJG bbyJzT"
-                                                                           style="text-decoration: none; color: #000000; font-size: 12px;"
-                                                                           href="https://www.linkedin.com/in/martin-anev/">Follow
-                                        me on LinkedIn</a></span></td>
-                                </tr>
-                                <tr>
-                                    <td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT"><a
-                                            href="https://www.youtube.com/@MartinAnev"><img class="sc-iRbamj blSEcj"
-                                                                                            style="display: block;"
-                                                                                            src="https://apptimist.studio/media/filer_public/12/a9/12a9b26f-e262-4315-8d18-9eacfad58d88/youtube-yellow.png"
-                                                                                            width="13"/></a></span></td>
-                                    <td style="vertical-align: bottom;"><a class="sc-jlyJG bbyJzT"
-                                                                           style="text-decoration: none; color: #000000; font-size: 12px;"
-                                                                           href="https://www.youtube.com/@MartinAnev">Check my YouTube</a></td>
-                                </tr>
-                                <tr></tr>
-                                <tr style="vertical-align: middle;">
-                                    <td style="vertical-align: middle;" width="30">
-                                        <table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;"
-                                               cellspacing="0" cellpadding="0">
-                                            <tbody>
-                                            <tr>
-                                                <td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT"
-                                                                                          style="display: block; background-color: #FFD60A;"><img
-                                                        class="sc-iRbamj blSEcj"
-                                                        style="display: block; background-color: #FFD60A;"
-                                                        src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/link-icon-2x.png"
-                                                        width="13"/></span></td>
-                                            </tr>
-                                            </tbody>
-                                        </table>
-                                    </td>
-                                    <td style="padding: 0px;"><a class="sc-gipzik iyhjGb"
-                                                                 style="text-decoration: none; color: #000000; font-size: 12px;"
-                                                                 href="https://apptimist.studio"><span>https://apptimist.studio</span></a>
-                                    </td>
-
-                                </tr>
-                                </tbody>
-                            </table>
-                        </td>
-                    </tr>
-                    </tbody>
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td>&nbsp;</td>
-        </tr>
-        </tbody>
-    </table>
+<p>&nbsp;</p>
+<table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;"><strong>Martin&nbsp;Anev</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">CEO &amp; Co-Founder of <strong>Apptimist Studio</strong> </span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><em>We help businesses succeed by removing tech &amp;&nbsp; </em></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><em>user experience issues.</em></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: underline; color: #000000;" href="https://apptimist.studio/meeting">Schedule a call with me</a></span></p>
+<table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: middle;">&nbsp;</td>
+<td style="vertical-align: middle;" width="100"><span style="font-family: arial, helvetica, sans-serif;"><em><span class="sc-kgAjT cuzzPp" style="margin-right: 20px; display: block;"><img class="sc-cHGsZl bHiaRe" style="max-width: 130px;" src="https://apptimist.studio/media/filer_public/e5/f8/e5f8f06d-b29f-4afe-9f2c-c34b7468a491/no_background_logo.png" width="130" /></span></em></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="sc-jhAzac hmXDXQ" style="width: 1px; border-bottom: medium none; border-left: 1px solid #FFD60A;" width="1">&nbsp;</td>
+<td width="30">
+<div style="width: 30px;">&nbsp;</div>
+</td>
+<td style="vertical-align: middle;">
+<table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT" style="background-color: #ffd60a; font-family: arial, helvetica, sans-serif;"><a href="https://www.linkedin.com/in/martin-anev/"><img class="sc-iRbamj blSEcj" style="display: block; background-color: #ffd60a;" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/linkedin-icon-2x.png" width="13" /></a></span></td>
+<td style="vertical-align: bottom;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://www.linkedin.com/in/martin-anev/">Follow me on LinkedIn</a></span></td>
+</tr>
+<tr>
+<td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT" style="font-family: arial, helvetica, sans-serif;"><a href="https://www.youtube.com/@MartinAnev"><img class="sc-iRbamj blSEcj" style="display: block;" src="https://apptimist.studio/media/filer_public/12/a9/12a9b26f-e262-4315-8d18-9eacfad58d88/youtube-yellow.png" width="13" /></a></span></td>
+<td style="vertical-align: bottom;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://www.youtube.com/@MartinAnev">Check my YouTube channel</a></span></td>
+</tr>
+<tr style="vertical-align: middle;">
+<td style="vertical-align: middle;" width="30">
+<table class="sc-gPEVay eQYmiW" style="font-size: medium; font-family: Verdana;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT" style="display: block; background-color: #ffd60a; font-family: arial, helvetica, sans-serif;"><img class="sc-iRbamj blSEcj" style="display: block; background-color: #ffd60a;" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/link-icon-2x.png" width="13" /></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding: 0px;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-gipzik iyhjGb" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://apptimist.studio">https://apptimist.studio</a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
