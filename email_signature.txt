@@ -26,11 +26,11 @@
 <tbody>
 <tr>
 <td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT" style="background-color: #ffd60a; font-family: arial, helvetica, sans-serif;"><a href="https://www.linkedin.com/in/martin-anev/"><img class="sc-iRbamj blSEcj" style="display: block; background-color: #ffd60a;" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/linkedin-icon-2x.png" width="13" /></a></span></td>
-<td style="vertical-align: bottom;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://www.linkedin.com/in/martin-anev/">Follow me on LinkedIn</a></span></td>
+<td style="vertical-align: bottom;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://www.linkedin.com/in/apptimist.studio">Follow us on LinkedIn</a></span></td>
 </tr>
 <tr>
 <td style="vertical-align: bottom;"><span class="sc-jlyJG bbyJzT" style="font-family: arial, helvetica, sans-serif;"><a href="https://www.youtube.com/@MartinAnev"><img class="sc-iRbamj blSEcj" style="display: block;" src="https://apptimist.studio/media/filer_public/12/a9/12a9b26f-e262-4315-8d18-9eacfad58d88/youtube-yellow.png" width="13" /></a></span></td>
-<td style="vertical-align: bottom;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://www.youtube.com/@MartinAnev">Check my YouTube channel</a></span></td>
+<td style="vertical-align: bottom;"><span style="font-family: arial, helvetica, sans-serif;"><a class="sc-jlyJG bbyJzT" style="text-decoration: none; color: #000000; font-size: 12px;" href="https://www.youtube.com/@MartinAnev">Check our YouTube channel</a></span></td>
 </tr>
 <tr style="vertical-align: middle;">
 <td style="vertical-align: middle;" width="30">
